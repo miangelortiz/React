@@ -3,4 +3,4 @@
 
 ## Content
 
-* **TwoCountersWithHooks** - Simple example of tow counters using hooks -
+* **TwoCountersWithHooks** - Simple example of two counters using hooks -
